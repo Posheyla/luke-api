@@ -1,0 +1,9 @@
+.contenedor {
+    display:flex;
+}
+.titulo {
+    text-transform: capitalize;
+}
+.contenido {
+    margin-left: 5px;
+}
